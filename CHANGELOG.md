@@ -4,10 +4,19 @@
 
 [Full Changelog](https://github.com/jonathan-s/django-sockpuppet/compare/0.5.0...HEAD)
 
+**Fixed bugs:**
+
+- Separate linting from tests and fixes actioncable is rejected in Chrome [\#89](https://github.com/jonathan-s/django-sockpuppet/pull/89) ([jonathan-s](https://github.com/jonathan-s))
+
 **Closed issues:**
 
+- Can't dispatch event back to the user using Channel [\#81](https://github.com/jonathan-s/django-sockpuppet/issues/81)
 - Integration tests that should be created [\#21](https://github.com/jonathan-s/django-sockpuppet/issues/21)
 - Triggering a 500 error won't give frontend notice that such an error happened [\#3](https://github.com/jonathan-s/django-sockpuppet/issues/3)
+
+**Merged pull requests:**
+
+- Ignore .vscode [\#85](https://github.com/jonathan-s/django-sockpuppet/pull/85) ([DamnedScholar](https://github.com/DamnedScholar))
 
 ## [0.5.0](https://github.com/jonathan-s/django-sockpuppet/tree/0.5.0) (2021-01-16)
 
